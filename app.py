@@ -125,7 +125,7 @@ def mostrar_recomendaciones():
     st.markdown("---")
     st.header("🎉 Recomendaciones k-NN")
     
-    # --- Lógica de k-NN ---
+    # --- Lógica de K-NN ---
     K = 5
     generos_ids_list = st.session_state.genero_ids_list
     
@@ -216,9 +216,7 @@ def mostrar_interfaz_principal():
     st.markdown("---")
     
 # --- FUNCIÓN PRINCIPAL DE STREAMLIT ---
-
 def main():
-    
     # Aplicar el estilo del póster (Netflix/Minimalista Oscuro)
     st.set_page_config(
         page_title="Swipe&Watch k-NN Demo",
