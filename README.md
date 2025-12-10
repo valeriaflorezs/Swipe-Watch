@@ -3,7 +3,7 @@
 Un proyecto innovador que combina la usabilidad moderna (patrón "Swipe") con algoritmos de Machine Learning (`k-NN`) y modelado de datos mediante la **Teoría de Grafos** para generar recomendaciones de películas personalizadas.
 
 [🔗 Ver Demo (streamlit)](https://swipe-and-watch.streamlit.app/)
-
+[🔗 Ver Póster](Swipe&Watch_poster.pdf)
 ## 🎯 Objetivo del Proyecto
 
 El objetivo principal de *Swipe & Watch* es demostrar la implementación práctica de algoritmos de recomendación en un entorno interactivo y moderno.
